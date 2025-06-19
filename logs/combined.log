@@ -1,0 +1,192 @@
+{"level":"info","message":"🚀 Disaster Response Platform server running on port 3000","service":"disaster-response-platform","timestamp":"2025-06-18 22:17:24"}
+{"level":"info","message":"Environment: development","service":"disaster-response-platform","timestamp":"2025-06-18 22:17:24"}
+{"level":"info","message":"Health check: http://localhost:3000/health","service":"disaster-response-platform","timestamp":"2025-06-18 22:17:24"}
+{"level":"info","message":"🚀 Disaster Response Platform server running on port 3000","service":"disaster-response-platform","timestamp":"2025-06-18 22:25:08"}
+{"level":"info","message":"Environment: development","service":"disaster-response-platform","timestamp":"2025-06-18 22:25:08"}
+{"level":"info","message":"Health check: http://localhost:3000/health","service":"disaster-response-platform","timestamp":"2025-06-18 22:25:08"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:25:29"}
+{"level":"info","message":"Client connected: wFd7ZBTAz9e4gNgsAAAC","service":"disaster-response-platform","timestamp":"2025-06-18 22:25:32"}
+{"level":"info","message":"🚀 Disaster Response Platform server running on port 3000","service":"disaster-response-platform","timestamp":"2025-06-18 22:27:01"}
+{"level":"info","message":"Environment: development","service":"disaster-response-platform","timestamp":"2025-06-18 22:27:01"}
+{"level":"info","message":"Health check: http://localhost:3000/health","service":"disaster-response-platform","timestamp":"2025-06-18 22:27:01"}
+{"level":"info","message":"Client connected: sJ6zk4UT0GuxC5dGAAAB","service":"disaster-response-platform","timestamp":"2025-06-18 22:27:04"}
+{"level":"info","message":"Client disconnected: sJ6zk4UT0GuxC5dGAAAB","service":"disaster-response-platform","timestamp":"2025-06-18 22:27:10"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:27:10"}
+{"level":"info","message":"Client connected: fUy6Fh0wRYaW9-sfAAAE","service":"disaster-response-platform","timestamp":"2025-06-18 22:27:11"}
+{"level":"info","message":"🚀 Disaster Response Platform server running on port 3000","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:05"}
+{"level":"info","message":"Environment: development","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:05"}
+{"level":"info","message":"Health check: http://localhost:3000/health","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:05"}
+{"level":"info","message":"Client connected: _jjf6j4AzNOuzuAFAAAB","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:06"}
+{"level":"info","message":"Client disconnected: _jjf6j4AzNOuzuAFAAAB","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:14"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:14"}
+{"level":"info","message":"Client connected: IE5Op4qE9YxFXePrAAAE","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:21"}
+{"level":"info","message":"POST /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:44"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:44"}
+{"level":"info","message":"Mock geocoded unknown location: Nashik","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:44"}
+{"level":"debug","message":"Cache set for key: geocode_TmFzaGlr, expires: Thu Jun 19 2025 22:31:44 GMT+0530 (India Standard Time)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:44"}
+{"level":"info","message":"Geocoded location: Nashik to 40.82224254896633, -73.99654072521989","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:44"}
+{"level":"info","message":"Disaster created: Flood by netrunnerX","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Client IE5Op4qE9YxFXePrAAAE joined disaster room: 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Client IE5Op4qE9YxFXePrAAAE left disaster room: 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Client IE5Op4qE9YxFXePrAAAE joined disaster room: 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"GET /api/resources/disasters/7880afd3-7469-46ff-99ba-e4e836d23066/resources - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"GET /api/disasters/7880afd3-7469-46ff-99ba-e4e836d23066 - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"GET /api/updates/disasters/7880afd3-7469-46ff-99ba-e4e836d23066/official-updates - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Returned 2 official updates for disaster 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"GET /api/social-media/disasters/7880afd3-7469-46ff-99ba-e4e836d23066/social-media - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"GET /api/updates/disasters/7880afd3-7469-46ff-99ba-e4e836d23066/official-updates - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Returned 2 official updates for disaster 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Returned 0 resources for disaster 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"GET /api/resources/disasters/7880afd3-7469-46ff-99ba-e4e836d23066/resources - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Returned 0 resources for disaster 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Returned 5 mock social media reports","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"debug","message":"Cache set for key: social_media_7880afd3-7469-46ff-99ba-e4e836d23066_, expires: Wed Jun 18 2025 23:01:45 GMT+0530 (India Standard Time)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Returned social media reports and analysis for disaster 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"GET /api/social-media/disasters/7880afd3-7469-46ff-99ba-e4e836d23066/social-media - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"debug","message":"Cache hit for key: social_media_7880afd3-7469-46ff-99ba-e4e836d23066_","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Returned social media reports and analysis for disaster 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Retrieved disaster: Flood","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"GET /api/disasters/7880afd3-7469-46ff-99ba-e4e836d23066 - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Retrieved disaster: Flood","service":"disaster-response-platform","timestamp":"2025-06-18 22:31:45"}
+{"level":"info","message":"Client IE5Op4qE9YxFXePrAAAE left disaster room: 7880afd3-7469-46ff-99ba-e4e836d23066","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:04"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:04"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:04"}
+{"level":"info","message":"Retrieved 14 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:04"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:04"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:04"}
+{"level":"info","message":"Retrieved 14 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:04"}
+{"level":"info","message":"DELETE /api/disasters/af0dcee5-41a5-4e88-b348-cad2790e21f1 - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:15"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:15"}
+{"level":"info","message":"Disaster deleted: NYC Flood by netrunnerX","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:15"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:15"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:15"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:15"}
+{"level":"info","message":"DELETE /api/disasters/31e4ced8-c6d5-4f4c-addd-9401a2cf857c - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:20"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:20"}
+{"level":"info","message":"Disaster deleted: csd by netrunnerX","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:20"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:20"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:20"}
+{"level":"info","message":"Retrieved 12 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:20"}
+{"level":"info","message":"GET /api/health - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:38"}
+{"level":"info","message":"GET /api/health - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:38"}
+{"level":"info","message":"Client disconnected: IE5Op4qE9YxFXePrAAAE","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:43"}
+{"level":"info","message":"GET /api/health - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:43"}
+{"level":"info","message":"GET /api/health - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:43"}
+{"level":"info","message":"Client connected: dciF1CFA0hYk50FIAAAH","service":"disaster-response-platform","timestamp":"2025-06-18 22:32:43"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:33:34"}
+{"level":"info","message":"🚀 Disaster Response Platform server running on port 3000","service":"disaster-response-platform","timestamp":"2025-06-18 22:34:09"}
+{"level":"info","message":"Environment: development","service":"disaster-response-platform","timestamp":"2025-06-18 22:34:09"}
+{"level":"info","message":"Health check: http://localhost:3000/health","service":"disaster-response-platform","timestamp":"2025-06-18 22:34:09"}
+{"level":"info","message":"Client connected: w4ZTBaDSdAtY2r95AAAB","service":"disaster-response-platform","timestamp":"2025-06-18 22:34:12"}
+{"level":"info","message":"GET /health - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:34:13"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:25"}
+{"level":"info","message":"POST /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:53"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:53"}
+{"level":"info","message":"Mock geocoded unknown location: Sinnar","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"debug","message":"Cache set for key: geocode_U2lubmFy, expires: Thu Jun 19 2025 22:35:54 GMT+0530 (India Standard Time)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Geocoded location: Sinnar to 40.73245491151247, -73.9515664378387","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Disaster created: Haryana Flood by netrunnerX","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Client w4ZTBaDSdAtY2r95AAAB joined disaster room: 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Client w4ZTBaDSdAtY2r95AAAB left disaster room: 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Client w4ZTBaDSdAtY2r95AAAB joined disaster room: 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"GET /api/disasters/6a26f320-836f-4fd7-a003-f547c6b02ecb - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"GET /api/resources/disasters/6a26f320-836f-4fd7-a003-f547c6b02ecb/resources - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"GET /api/social-media/disasters/6a26f320-836f-4fd7-a003-f547c6b02ecb/social-media - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"GET /api/updates/disasters/6a26f320-836f-4fd7-a003-f547c6b02ecb/official-updates - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Returned 2 official updates for disaster 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"GET /api/updates/disasters/6a26f320-836f-4fd7-a003-f547c6b02ecb/official-updates - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Returned 2 official updates for disaster 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Retrieved disaster: Haryana Flood","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"GET /api/disasters/6a26f320-836f-4fd7-a003-f547c6b02ecb - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Retrieved disaster: Haryana Flood","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Returned 5 mock social media reports","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"debug","message":"Cache set for key: social_media_6a26f320-836f-4fd7-a003-f547c6b02ecb_, expires: Wed Jun 18 2025 23:05:54 GMT+0530 (India Standard Time)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Returned social media reports and analysis for disaster 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"GET /api/social-media/disasters/6a26f320-836f-4fd7-a003-f547c6b02ecb/social-media - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"debug","message":"Cache hit for key: social_media_6a26f320-836f-4fd7-a003-f547c6b02ecb_","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Returned social media reports and analysis for disaster 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Returned 0 resources for disaster 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"GET /api/resources/disasters/6a26f320-836f-4fd7-a003-f547c6b02ecb/resources - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Returned 0 resources for disaster 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:35:54"}
+{"level":"info","message":"Client w4ZTBaDSdAtY2r95AAAB left disaster room: 6a26f320-836f-4fd7-a003-f547c6b02ecb","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:16"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:16"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:16"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:17"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:17"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:17"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:17"}
+{"level":"info","message":"GET /api/health - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:20"}
+{"level":"info","message":"GET /api/health - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:36:20"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:07"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:07"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:07"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:08"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:08"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:08"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:08"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:25"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:25"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:25"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:25"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:25"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:25"}
+{"level":"info","message":"Client disconnected: w4ZTBaDSdAtY2r95AAAB","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:34"}
+{"level":"info","message":"Client connected: URL2vR2Hgi7ceyn0AAAE","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:35"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:35"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:35"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:35"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:35"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:35"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:38:35"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:39:45"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:43:00"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:43:00"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:43:00"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:43:01"}
+{"level":"info","message":"GET /api/disasters - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:43:01"}
+{"level":"info","message":"User authenticated: netrunnerX (admin)","service":"disaster-response-platform","timestamp":"2025-06-18 22:43:01"}
+{"level":"info","message":"Retrieved 13 disasters","service":"disaster-response-platform","timestamp":"2025-06-18 22:43:01"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:45:08"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 22:55:37"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:00:05"}
+{"level":"info","message":"Client disconnected: URL2vR2Hgi7ceyn0AAAE","service":"disaster-response-platform","timestamp":"2025-06-18 23:00:18"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:01:41"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:03:22"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:04:09"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:07:50"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:10:22"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:17:43"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:19:33"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:20:37"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:21:55"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:23:55"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:25:02"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:26:46"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:31:00"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:31:42"}
+{"level":"info","message":"Expired cache entries cleared","service":"disaster-response-platform","timestamp":"2025-06-18 23:34:09"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:34:18"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:37:55"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:42:13"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:44:06"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:46:14"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:46:56"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:49:51"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:52:43"}
+{"level":"info","message":"GET /__server_sent_events__ - ::1","service":"disaster-response-platform","timestamp":"2025-06-18 23:53:44"}
